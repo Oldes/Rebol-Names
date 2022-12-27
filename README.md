@@ -4,7 +4,7 @@
 Random names generator scheme
 
 So far using https://britishsurnames.co.uk/random as a source of names.
-It can be enhanced in a future to multiple source and or customizations.
+It can be enhanced in a future to multiple sources and or customizations.
 
 # Usage example
 
