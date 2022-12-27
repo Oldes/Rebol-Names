@@ -4,11 +4,9 @@ REBOL [
 
 import %names.reb
 
-
-;-- Single name:                             
+print as-yellow "Getting a single random name..."
 probe read names://
 
-
-;-- Block of names:                          
-probe read/part names://
+print as-yellow "Getting 60 random names..."
+probe read/part names:// 60
 
